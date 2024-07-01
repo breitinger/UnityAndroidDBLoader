@@ -10,4 +10,4 @@ I added a example of how it can be used to access a SQLite database
 
 - Unity 2022
 - Unity 6
-- (should work for most later Versions of Inity)
+- (should work for most later Versions of Unity)
